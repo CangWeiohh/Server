@@ -1,42 +1,18 @@
-http=:, fast-open=false, udp-relay=false, tag=--
-http=:, fast-open=false, udp-relay=false, tag=--
-http=:, fast-open=false, udp-relay=false, tag=--
-http=:, fast-open=false, udp-relay=false, tag=--
-http=:, fast-open=false, udp-relay=false, tag=--
-http=v�.���¸�x�{�y�x��̸�и������:8080, fast-open=false, udp-relay=false, tag=China--Hebei
-http=v�.���¸�x�{�y�x��Ը��ĸ��ܸ��:80, fast-open=false, udp-relay=false, tag=Germany--Hesse
-http=v�.���¸�x�{�y�x�ĸ����ĸ���:80, fast-open=false, udp-relay=false, tag=France--
-http=v�.���¸�x�{�y�x�ĸ��и��ĸ���:8088, fast-open=false, udp-relay=false, tag=France--
-http=:, fast-open=false, udp-relay=false, tag=--
-http=v�.���¸�x�{�y�x�������������:80, fast-open=false, udp-relay=false, tag=Israel--Yerushalayim
-http=v�.���¸�x�{�y�x�����ĸ�и�:8123, fast-open=false, udp-relay=false, tag=France--Paris
-http=v�.���¸�x�{�y�x�ܸ��ظ��ܸ���:3128, fast-open=false, udp-relay=false, tag=China--Zhejiang
-http=v�.���¸�x�{�y�x����и�̸��:80, fast-open=false, udp-relay=false, tag=Singapore--
-http=v�.���¸�x�{�y�x��и��ܸ�����:7777, fast-open=false, udp-relay=false, tag=China--Shanxi
-http=v�.���¸�x�{�y�x�ĸ����ܸ��:3128, fast-open=false, udp-relay=false, tag=Uzbekistan--Qashqadaryo
-http=v�.���¸�x�{�y�x�����Ը�ĸ���:80, fast-open=false, udp-relay=false, tag=Hong Kong--Central and Western District
-http=v�.���¸�x�{�y�x������Ը��Ը��:33630, fast-open=false, udp-relay=false, tag=Bolivia--La Paz
-http=v�.���¸�x�{�y�x��ظ��ܸ��и��:80, fast-open=false, udp-relay=false, tag=United States--Nevada
-http=v�.���¸�x�{�y�x��Ը��и�����:80, fast-open=false, udp-relay=false, tag=Spain--
-http=v�.���¸�x�{�y�x��������:80, fast-open=false, udp-relay=false, tag=United States--Florida
-http=v�.���¸�x�{�y�x�����ظ��ظ���:80, fast-open=false, udp-relay=false, tag=Brazil--Sao Paulo
-http=v�.���¸�x�{�y�x�ظ�ܸ��ܸ���:3128, fast-open=false, udp-relay=false, tag=Russian Federation--Pskov
-http=v�.���¸�x�{�y�x��ظ��Ը�Ը��:80, fast-open=false, udp-relay=false, tag=France--Nord-Pas-de-Calais
-http=v�.���¸�x�{�y�x�ĸ������̸���:80, fast-open=false, udp-relay=false, tag=France--
-http=v�.���¸�x�{�y�x��ܸ��ܸ�и��:80, fast-open=false, udp-relay=false, tag=Mexico--
-http=v�.���¸�x�{�y�x��̸�����и���:8000, fast-open=false, udp-relay=false, tag=Korea--Seoul-t'ukpyolsi
-http=v�.���¸�x�{�y�x�̸��Ը��̸���:8080, fast-open=false, udp-relay=false, tag=Cambodia--Phnum Penh
-http=v�.���¸�x�{�y�x�ĸ�ܸ������:80, fast-open=false, udp-relay=false, tag=Guinea--
-http=:, fast-open=false, udp-relay=false, tag=--
-http=v�.���¸�x�{�y�x��ĸ��ȸ����:80, fast-open=false, udp-relay=false, tag=Chile--Region Metropolitana
-http=v�.���¸�x�{�y�x�����Ը��ܸ��:80, fast-open=false, udp-relay=false, tag=Hong Kong--
-http=v�.���¸�x�{�y�x��и�Ը���:80, fast-open=false, udp-relay=false, tag=Senegal--
-http=v�.���¸�x�{�y�x�̸��ܸ����:3128, fast-open=false, udp-relay=false, tag=Russian Federation--Sverdlovsk
-http=v�.���¸�x�{�y�x�ܸ�̸�ȸ��:3129, fast-open=false, udp-relay=false, tag=China--Zhejiang
-http=v�.���¸�x�{�y�x�����̸��:80, fast-open=false, udp-relay=false, tag=India--Maharashtra
-http=v�.���¸�x�{�y�x��ĸ��ܸ��:80, fast-open=false, udp-relay=false, tag=Paraguay--Asuncion
-http=v�.���¸�x�{�y�x�����ظ��ĸ��:9000, fast-open=false, udp-relay=false, tag=China--Zhejiang
-http=v�.���¸�x�{�y�x���ܸ�ظ��:3128, fast-open=false, udp-relay=false, tag=Germany--
-http=v�.���¸�x�{�y�x�и�ĸ�ȸ��:80, fast-open=false, udp-relay=false, tag=Taiwan--Taipei City
-http=v�.���¸�x�{�y�x��ĸ����ĸ���:3128, fast-open=false, udp-relay=false, tag=Korea--Seoul-t'ukpyolsi
-http=v�.���¸�x�{�y�x��ظ��и��Ը��:8080, fast-open=false, udp-relay=false, tag=Indonesia--Yogyakarta
+http=143.64.20.157:8080, fast-open=false, udp-relay=false, tag=China--Hebei
+http=51.38.191.151:80, fast-open=false, udp-relay=false, tag=France--
+http=80.179.140.189:80, fast-open=false, udp-relay=false, tag=Israel--Yerushalayim
+http=47.106.107.212:3128, fast-open=false, udp-relay=false, tag=China--Zhejiang
+http=124.167.20.48:7777, fast-open=false, udp-relay=false, tag=China--Shanxi
+http=20.205.61.143:80, fast-open=false, udp-relay=false, tag=Hong Kong--Central and Western District
+http=216.137.184.253:80, fast-open=false, udp-relay=false, tag=United States--Nevada
+http=198.49.68.80:80, fast-open=false, udp-relay=false, tag=United States--Florida
+http=46.47.197.210:3128, fast-open=false, udp-relay=false, tag=Russian Federation--Pskov
+http=81.250.223.126:80, fast-open=false, udp-relay=false, tag=France--
+http=183.100.14.134:8000, fast-open=false, udp-relay=false, tag=Korea--Seoul-t'ukpyolsi
+http=41.77.188.131:80, fast-open=false, udp-relay=false, tag=Guinea--
+http=181.212.58.68:80, fast-open=false, udp-relay=false, tag=Chile--Region Metropolitana
+http=154.65.39.8:80, fast-open=false, udp-relay=false, tag=Senegal--
+http=47.93.52.36:3129, fast-open=false, udp-relay=false, tag=China--Zhejiang
+http=201.217.49.2:80, fast-open=false, udp-relay=false, tag=Paraguay--Asuncion
+http=78.47.96.120:3128, fast-open=false, udp-relay=false, tag=Germany--
+http=211.219.51.199:3128, fast-open=false, udp-relay=false, tag=Korea--Seoul-t'ukpyolsi
